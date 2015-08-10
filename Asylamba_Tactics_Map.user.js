@@ -5,6 +5,7 @@
 // @include     http://game.asylamba.com/*/map*
 // @match       http://game.asylamba.com/*/map*
 // @grant       GM_xmlhttpRequest
+// @updateURL   https://github.com/Genroa/Asylamba-Tactics-Map/raw/master/Asylamba_Tactics_Map.user.js
 // @version     0.0.1
 // @grant       Genroa
 // @author      Genroa
